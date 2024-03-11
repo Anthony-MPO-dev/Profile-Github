@@ -10,7 +10,7 @@
 ###
 
 <b  align="left">
-  🌱 Eu estou atualmente trabalhando com analise de dados epidemiológicos, e apredendo sobre Machine Learning usando: Python, React, javascript, sckitlearn, e diversas outras ferramentas e bibliotecas que possam me ajudar...  
+🌱 Atualmente, estou imerso na análise de dados epidemiológicos, explorando o vasto campo da Machine Learning. Minha jornada de aprendizado envolve o uso de Python, especialmente com bibliotecas poderosas como scikit-learn, pandas e matplotlib. Estou focado em compreender e aplicar modelos como regressão linear, ARIMA para séries temporais, e estou me preparando para mergulhar nas intricadas redes neurais, incluindo LSTM e GRU. Esta jornada é alimentada pela curiosidade constante e pelo desejo de aprimorar a compreensão dos padrões em dados epidemiológicos, contribuindo assim para a análise e previsão mais eficazes. 👨‍💻✨ 
 </b>
 
 ###
