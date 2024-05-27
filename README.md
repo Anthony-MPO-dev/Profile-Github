@@ -3,7 +3,7 @@
     Oi Tudo bem? Eu me chamo 
     <a href="https://www.linkedin.com/in/anthony-muniz-a0b098219/">Anthony Muniz</a> 
   </h1>
-  <h3 align="center">Analista de Dados e Desenvolvedor Júnior em IA</h3>
+  <h3 align="center">FullStack Developer, Iniciante em Ciência de Dados e Machine Learning com foco em Séries Temporais</h3>
 
 <br clear="both">
 
